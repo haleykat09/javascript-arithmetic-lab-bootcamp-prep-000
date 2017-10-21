@@ -17,3 +17,5 @@ function divide(a,b) {
 function inc() {
   return (number + 1)
 }
+
+var number = 1
