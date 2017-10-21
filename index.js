@@ -15,7 +15,7 @@ function divide(a,b) {
 }
 
 function inc() {
-  return number++
+  return (a + 1)
 }
 
-var number = 200
+
