@@ -15,7 +15,7 @@ function divide(a,b) {
 }
 
 function inc() {
-  return (${number}++)
+  return number++
 }
 
 var number = 159
